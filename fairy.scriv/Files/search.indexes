@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="0863BD1D-FA0F-4B8F-9B3F-3A0A2ACF174C">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+Location
+Role in Story:
+
+Related Characters:
+
+Season:
+
+Unique Features:
+
+Description:
+
+Sights:
+
+Sounds:
+
+Smell:
+
+Notes:
+
+</Text>
+        </Document>
+        <Document ID="0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8">
+            <Text>
+</Text>
+        </Document>
+        <Document ID="0F8D483D-213B-4CD9-991C-DA5A8BDE385F">
+            <Title>chapter 2</Title>
+        </Document>
+        <Document ID="17AA5803-9EA9-49C2-A454-2E8386E18F0A">
+            <Title>Dedication</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+Insert dedication here.</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="1FF93A44-228E-438A-9D4B-E6B6258219A2">
+            <Title>Manuscript Format</Title>
+        </Document>
+        <Document ID="28AFDB37-2FF4-4BD4-A273-1AEFF4E9EAE4">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+Age • Location
+Role in Story:
+
+Goal:
+
+Physical Description:
+
+Personality:
+
+Occupation:
+
+Habits/Mannerisms:
+
+Background:
+
+Internal Conflicts:
+
+External Conflicts:
+
+Notes:
+</Text>
+        </Document>
+        <Document ID="2C08C930-F2D8-4D1E-950B-C1E6FBA7985D"/>
+        <Document ID="323E42B8-881A-4A72-938C-1D683D78D8DF">
+            <Title>Title Page</Title>
+            <Synopsis>Title page to the manuscript.</Synopsis>
+            <Text>
+keant
+Your address
+
+
+
+Your phone number
+Your e-mail address
+
+(Your agent’s name)
+(Your agent’s address)
+&lt;$wc100&gt; words.
+
+
+
+
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+by &lt;$fullname&gt;</Text>
+            <Notes>This is the title page of the manuscript. Note that its “Section Type” is automatically set to “Front Matter” in the metadata tab of the inspector, allowing the title page to be formatted differently from body text during compile.
+
+The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with metadata information you can set when compiling. Other information is taken from the Author Information settings in File &gt; Options… when the project is created.
+
+The &lt;$wc100&gt; words tag will be replaced with the word count rounded to the nearest 100 during compile (this and other tags can be inserted from the Insert menu).
+
+Feel free to edit the text of the title page as required.</Notes>
+        </Document>
+        <Document ID="4908D479-188E-4232-AA7D-38FD12692DC5">
+            <Title>Dedication</Title>
+            <Text>
+
+
+
+
+Your dedication here.</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="57ECC98D-8199-4935-B5F1-D1F7A2D60646">
+            <Title>Front Matter</Title>
+            <Notes>Note that in the “Metadata” pane of the Inspector, under “Section Type”, the “Default Subdocument Type” is set to “Front Matter”. This setting causes all subdocuments of this folder to use the “Front Matter” section type by default (that is, when “Structure-Based” is selected as the section type).
+
+This saves us from having to manually assign the “Front Matter” section type for each document we place into this folder.
+
+During Compile, documents assigned the “Front Matter” section type will be laid out differently from documents in the main body of the manuscript.</Notes>
+        </Document>
+        <Document ID="5C03DE09-C285-48ED-827F-78E62B7D0F72">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="5F40F985-59BA-43CC-8650-9EDD1E6A62B5">
+            <Title>Copyright</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © &lt;$year&gt; &lt;$author&gt;
+All rights reserved.
+ISBN:
+ISBN-13:</Text>
+            <Notes>Feel free to delete this document if you don’t need it, or edit it for your needs.</Notes>
+        </Document>
+        <Document ID="62FF97C4-994E-4778-B24F-1B07FB81601D">
+            <Title>Cover</Title>
+        </Document>
+        <Document ID="661B658C-F8D2-4ACF-87DB-BDE37EA4D910">
+            <Title>Chapter 3</Title>
+        </Document>
+        <Document ID="6830B6AC-686B-4370-A979-2FD1D7288BDA">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="69822417-D015-4BDD-90BD-18AAA6198D15">
+            <Title>Notes</Title>
+        </Document>
+        <Document ID="6A3AB75E-99E0-4B44-BCD8-F510E3A06123">
+            <Title>Scene-1</Title>
+            <Text>Falling to my death is not the way I thought my life would end. But here I am falling face first to the earth with no parachute.  As I get closer to my final resting place I start to recognize the scene below. I’m over the River. The thick cypress trees and crescent shaped rock formation signaled a familiar place. I don’t want to die here. Not here. 
+Ask and you shall receive I guess. In a second I realized my swift plunge had slowed. 
+I am floating like a dandelion on the  breeze until I end up hovering over the water. Theres something moving just below the surface. Make that someone.
+
+The details of the person’s face were hard to see through the water.  Long dark hair floated around like a graceful shadow as she looked all around. The woman’s outstretched arms frantically searched for something.  A way out?  A hand stretched in my direction and I realized that she was reaching for me. 
+I’m terrified but I can’t just leave her to a watery grave.  I stretched my arm out toward her until our fingertips met. The cloudy water started to clear just as my fingers broke the surface. Then as if I have tripped an alarm an loud beeping starts.
+Autumn gasped and coughed she sat up in bed. She was in her bed. In her room. Safe. The digital clock on her dresser read 8:16. 
+“At least I didn’t oversleep today”
+Knock Knock Knock
+“Are you up?”
+Autumn realized she was grasping the ring that hung around her neck. Something she often did when she was scared or uneasy.
+“Uh Um Yeah. I’ll be out in a minute.”
+“Are you ok?” “You sound strange”
+Autumn took a deep calming breath before replying. Violet was a great room mate and even better friend. But sometime it was had to believe they were the same age violet was almost as overprotective as a Father on prom night. 
+“Vi I’m fine. Not everyone can be like you in the mornings Susie Sunshine.”
+“Fine” Violet laughed But muffins are fresh out of the oven and I need a taste tester.”
+“Mmmm.”” Ok but give me a few minutes ready for work first.” Said Autumn  “I’m like 80 percent sure Allen is gonna fire me if I’m late again. Autumn responded
+I hopped out of bed and headed for the bathroom down the hall.
+Violet was attempting to perfect her cranberry orange flavored muffins this week. And since Violet was an amazing cook Autumn had no problem being the taste tester.
+Twenty minutes later Autumn sat across the table from her best friend. The house that they shared was small but did include a breakfast nook with a bay window overlooking the front yard. 
+Hows you head? Vi asked 
+Oh much better. 
+Autumn had over heated about two weeks ago and passed out in the front yard. Thankfully Violet had left work early and found her near the front steps. When Autumn woke up someone was playing a cymbal inside her head and shining a police search light in her eyes. Autumn had hit her head when she fell. Vi insisted on taking her to the hospital but that was a no go. Autumn would rather crawl over hot coals than go to a hospital. The compromise was Violet making a terrible herbal remedy. It smelled like sweaty onions and old potatoes but it did the trick. Autumn felt great. The only lingering affect was these strange dreams but she didn’t dare mention them to Vi for fear of another herbal fix.
+I better get going Autumn said rising from her seat. She tilted the cup back to finish her orange juice before sitting it in the sink.
+
+
+Good thing muffins were great for breakfast on the go. Autumn took another bite as she walked out the door.  The roses she and Vi had planted near the front door were looking great. A few red buds where already showing life. Autumn had alway seemed to have a green thumb. Even as a child planting things that could grow and produce something beautiful had fascinated her.  As an adult Autumn kind of liked to think of herself as a flower that could produce beauty in her artwork. Artwork that one day would be appreciated. 
+
+ But for now Autumn hopped in her blue Honda hatchback and headed off to work.  The homemade breakfast confection perfumed the cabin. The smell of oranges always made her feel happy. But anything that Violet cooked had that effect. 
+
+It happened so suddenly. Just as she started to cross Webb Creek there was a loud Bang and the steering wheel jerked to the right. On a reaction Autumn pulled to left. Over correcting made things worse. Thank goodness she didn't end up in the creek. The guard rail stopped the Honda’s forward progress. But the sudden stopped caused her head to bang the driver side window and then everything went black.
+
+
+
+The smell of disinfectant and hand sanitizer filled her nose as she tried to gain her bearings.  Looking around the room, Autumn clutched the silver ring that alway hung from the gold chain around her neck It took a few blinks to focus in the dimly lit room. 
+A hospital?
+Why…
+Suddenly Autumn’s sluggish mind coughed up the events of the day. It was like a slide show was playing in her mind. She remembered donning her U-Store It t-shirt, grabbing her backpack and a muffin and heading out the door.
+
+Autumn! I’m so glad you’re ok. Violet said as she rushed to the side of the hospital bed. 
+Violet sat on the bed and quickly wrapped her arms around Autumn. 
+Oh Autumn I was so worried. Doug called and said you never made it to work. I’m so sorry that this happened to you. 
+I’m alright. 
+I think I’m alright. No broken bones at least. Besides if was an accident.  I think my tire blew.  I guess I waited too long to replace them. I’m just glad no one else was hurt.
+So am I said Violet.
+How long have I been here?
+You left for work at 8:30 and the hospital called me around 10.
+What time is it now?
+Just after 5:00.
+You’ve been here all day?
+
+Of course. Thats what family is for.
+She and Violet were not related by blood but had formed a bond as close as sister.  Autumn had been looking for a new roommate and Violet found one of her flyers.
+Talk about bad luck. Autumn had lost her keys, nearly set fire to the breakroom at work. Now this car accident. 
+In walked a tall thin man in a long white coat.
+Good afternoon Miss North. I’m Dr. Moore. I am glad to see you’re up and alert.
+Thanks. So when can I go home?
+We need to observe you overnight due to the head injury.
+Autumn reached for the injury near her hairline and winced.
+I feel fine Doc.
+25 years old with no pre existing health conditions. Im sure you’ll make a full recovery. But hospital policy for a head injury and loss of consciousness is an overnight stay.  ke
+Now I need to check out a few other things now that you are awake.
+Thank you for being so thorough Doctor Said Violet
+Yeah thanks.
+You are very welcome Miss North. 
+
+      *** 
+
+Jack gazed out over the hill at the sun rise. He knew the view extremely well. The same canopy of  trees. The same rushing stream that trickled it’s way down the mountain. This was always the reward for his morning run. Hell just for getting out of bed before dawn. This view reminded him of why he worked so hard. But today he just needed time to think away from the rest of the guys.  Peace and quite.
+“Jack”
+“Hey Jack”
+Well there went his quite.
+“Fuck. I don’t need a run partner or a baby sitter, Carver”
+ “I know you asked for space but the queen has requested an audience.” Carver replied
+“When?” Jack asked 
+“Now.”
+“Alright. Has the Squad been informed?
+“No. Said Carver. You don’t understand. The queen requested a private audience with you.”
+“Shit.” Jack said through clenched teeth
+And there went he peace.
+
+The queen had asked for a private meeting with him. She probably had finally gotten sick of his shit. Getting black out intoxicated wasn’t such a great idea. Especially when your whole reason for being was to stay alert and protect those in your care. Unfortunately losing someone in your care made it fucking hard to sleep. With sleep came the nightmares. The replay of that night that Jack would never forget.
+As they arrived at the Palace courtyard both Carver and Jack headed to the South lawn.  The palace stood on the north lawn. It had been built over 100 years ago to house the rulers of the race. 
+On the south lawn just behind a grove of trees stood a two story carriage house in habited by The Squad.
+The Squad was a group of male Fae who protected their race. A race that was not as close nit at they used to be.  Some Fae were not even aware of there magical heritage now. The Squad could trace their lines back for over one hundred years.  Unfortunately you couldnt choose your genetic lineage and the bloodlines of the Squad had been tainted.  Each and every male of the Squad had pledged to lay down thier lives for their queen without question or hesitation. Queen Rayvn had reluctantly ascended to the thrown after her mother was killed in the attack that started the war.
+
+After a quick shower, Jack headed to meet with Queen Rayvn. The queen was waiting in the oversized chair near a window.  As always she seemed a bit uncomfortable.  As if she didnt belong.  
+
+“Hello my queen”
+“Hi. Its very nice to see you this morning Jack” the queen replied 
+Jack fell silent not knowing what to say next. The queen broke the silence.
+“ I asked for you to come here because I need your help.”
+“Of course my queen” Anything that you request is law”
+The queen visibly flinched at this.
+I apologize Queen Ravyn. I did not mean to -
+Please. There is no need for you to apologize Jack. Really.  As I said I need your help with something. I need you to retrieve a wayward Fae. 
+She lives in the Hill Country as a human. This Fae is unaware of her heritage. Her name is Autumn and she…
+The queen took a breath and turn away to gaze out of the window. The sun shone in around her creating an auburn halo around her coils of dark hair. Funny how Jack had never noticed this before. He had alway assumed that the queen had been named for her dark black hair but in reality her hair was a deep dark red. 
+After a moment Queen Ravyn continued. She needs our protection. The queen grabbed an inconspicuous piece of paper from the window sill. I was visited by the elder Vervina about three weeks ago. She had a vision of this young Fae. The queen said revealing a printed black and white photo of a young Fae woman. She was kneeling next to a small boy with a toy truck in her hand. A fire truck. The boy was beaming as he admired what was obviously a new toy. And though only the Fae’s profile was visible, Jack could see that she was beaming right back at the little boy. For a moment Jack felt his heat fall out of rhythm.  Probably from the beautiful display of caring. Jack had seen far to little of that type of caring in his life.
+Forgive me Queen Ravyn, Jack said but are you positive that I am the one that you wish to send. I don’t know a lot about the young ones.
+Young ones?
+Oh. The young boy in the picture is not child. Autumn volunteers at an orphanage called Rainbow Valley in the Hill Country. When Vervina visited me with news of her vision I asked her to draw a picture of the wayward Fae. Once we knew what she looked like were able to find her with the facial recognition software. This photo is from a news article about a Holiday toy drive at the Rainbow Valley orphanage. 
+Jack eye the photo again and again his heart skipped a beat.  
+May I ask my queen, what vision of this Fae did Vervina see?
+Vervina told me that the Dark Storm is upon us. And that Autumn is the only Fae with enough light to save the Fae race.
+
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="7BB69EF8-2678-4174-96B1-EB6D7CD7FB2B"/>
+        <Document ID="8011470C-3DAB-46BE-A166-FCF536FE86F6">
+            <Title>Standard Manuscript</Title>
+            <Text>Andrew Nonymous                   700 words.
+Your manuscript should
+have your address
+and contact details
+on the title page only.
+
+If you have an agent, your
+agent's address can be
+included beneath.
+
+NOVEL STANDARD MANUSCRIPT FORMAT
+            by Andrew Nonymous
+
+
+                                                            Nonymous / MANUSCRIPT FORMAT / 1
+
+                                                 Chapter One
+
+         Standard manuscript format is often required for novels so
+that work can easily be read by editors. It allows editors to
+estimate word count and determine roughly how many pages will be
+required to produce a book using the page size, style and font of
+their house. This PDF file was generated via Scrivener's compile
+feature and was created from the &quot;Novel&quot; project template.
+
+         Manuscripts for full-length novels require a separate title
+page. The author's name, address, telephone number and e-mail
+address should be shown in the upper-left corner of the title
+page, single-spaced. The title of the story should appear in all
+caps about halfway down the page. The author's name follows the
+title on the by-line as the author wants it to appear when
+published. A real name or pseudonym may be used and may include
+initials, actual given name or professional designation.
+
+         All text should be double-spaced and left-justified with a
+ragged right margin. Paragraphs should be indented by about five
+
+
+                                                            Nonymous / MANUSCRIPT FORMAT / 2
+
+spaces (half an inch) and not separated by an additional blank
+line. (It used to be traditional to separate each sentence with
+two spaces, but in these days of word processors this is now less
+common.) A 12-point font such as Courier, Times New Roman or
+Arial should be used throughout. In Scrivener, however, you can
+write using any font and formatting you choose--the options in
+compile can be used to change the formatting in the compiled
+document. In the &quot;Novel&quot; project template, the compile settings
+will deal with changing the font and formatting to those required
+for standard manuscript format.
+
+         Top, bottom, left and right margins should all be
+approximately one inch, not allowing for the page header. Each
+page except for the title page should include a header comprising
+the author's real surname, the title of the work (or a key word
+from the title) in capitals, and the page number. In Scrivener,
+all of this is handled for you by the &quot;Manuscript&quot; compile
+formats.
+
+                                                          #
+         Scene breaks are indicated with the hash character. Do not
+simply add an extra line space as this can be missed by the
+typesetter. The &quot;Separators&quot; tab of Scrivener's compile format
+designer can handle this for you if you are writing each scene as
+a separate text document. In general, this will be handled by
+compile in Scrivener, however, so that you can either leave empty
+lines in the text (and Scrivener will insert the hash character
+
+
+                                                            Nonymous / MANUSCRIPT FORMAT / 3
+
+during compile) or use different documents for different sections
+(and Scrivener will add the hash between them).
+
+         Some editors and publishers prefer emphasis to be indicated
+by underlining rather than italics. In Scrivener, this conversion
+can be handled by compile. The &quot;Manuscript (Courier)&quot; compile
+format will convert italics to underlines, whereas the
+&quot;Manuscript (Times)&quot; format will not.
+
+
+                                                            Nonymous / MANUSCRIPT FORMAT / 4
+
+                                                 Chapter Two
+
+         Begin each new chapter on a new page like this with the
+chapter number about a third of the way down the page. In
+Scrivener, this can all be dealt with in the compile settings. In
+Scrivener, all of this is handled automatically by the
+&quot;Manuscript&quot; compile formats.
+
+         Although it is often said that writers should not use the
+word-count features of their computers to determine the number of
+words in a manuscript, most publishers and editors will happily
+accept a word processor word count these days. In Scrivener, you
+can insert a word count of your manuscript by using Edit &gt; Insert
+&gt; Draft Word Count (for a manuscript, you may wish to have the
+word count rounded to the nearest 100, in which case select Edit
+&gt; Insert &gt; Draft Word Count &gt; Rounded To Nearest 100--this
+feature is used on the title page of this manuscript, in fact).
+
+         Note that the actual word count will not be inserted, but a
+tag that will be substituted for the word count upon export. In
+
+
+                                                            Nonymous / MANUSCRIPT FORMAT / 5
+
+reality, the formatting of a manuscript is often only really
+crucial when submitting directly to a publisher--first time
+novelists will usually submit to an agent first, and agents are
+often less picky about format and will point you in the right
+direction before submitting your work to a publisher.
+
+                                                          #
+         Much of the information contained in this document is based
+on a description of novel manuscript format by Matt Carless for
+the BBC Writers' Room website: http://www.bbc.co.uk/writersroom
+
+                                                  # # # # #
+</Text>
+        </Document>
+        <Document ID="84360D9A-E937-4AE6-BB3E-7A49C0CC6B71">
+            <Title>scene</Title>
+            <Text>Wendy,  Quinton and David made there way through the forest. Each caring there backpacks full of camping gear. It would be dark soon and they hoped to make camp before then. 
+How did you say you found this place Wendy?
+I told you David, I was walking Butters when she ran into the woods chasing a squirrel or a bird or who know what.
+You need to get that dog train.
+Thank you Quinton, Wendy said sarcastically
+Anyway Butters took off and I ran after her until I got to this open field next to a river.
+It’s the perfect place to film in unexplored territory. That was the problem with going to film school in a small town. Nature shoots are beautiful. Everyone filmed at the same locations. 
+This is gonna be great spending time in nature. Nothing like peace and quite to get your creative juices flowing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It had been about six months since she had gone out. She would have to shake the dust off he club clothes but it would be fun to go out dancing with her beastie.
+OK I’ll go. 
+
+Two and a half hours later Autumn and Violet walked into the club. 
+
+Purple lights swirled around the first floor. Bodies swayed to the heavy bass of the music.  The DJ was on a platform the the left that looked large enough for a live band. To the right a long padded bench lined the wall with small a small table and chair placed ever four feet or so for additional seating.  Behind the long padded bench was the stairway to the second floor. Straight ahead was the bar.  
+I know where I’m headed first. Autumn said nodding toward the bar.
+Shots! Shots! Shots! Good idea Violet agreed as they both started to weave there way through the sea of people on the dance floor.
+
+Two vodka shots later Autumn felt a tingle down her back as if someone had caressed her. She turned around looking for the asshole who tried to cop a feel but no one was there.  Still she felt something.
+“Autumn?” Vi called of the music. You ok?
+“Yeah” Autumn said toying with her necklace. I just… It’s nothing. Its just been a while since Ive been out.
+Oh ok well lets go shake the rust off. Vi grabbed my had and we headed back to the floor.
+Three bass throbbing, waist winding, hip shaking songs later I still couldn’t shake the tingle down my back. 
+I need a drink. Water.
+Ok. I’ll come with.
+No. Its ok.  Im a big girl. Besides the cutie in the hat is checking you out. Have fun.
+Autumn just needed a moment to shake off the weird feeling. Plus the dance floor was packed and she had to get some air.  Autumn had no idea where she was going she just had to get away from the crowd. Absent minded she walked toward seating area but continued past the padded bench to the staircase and headed for the club’s second floor balcony. The second floor provided a birds eye view of the dance floor below.  She could see Violet slow grinding on the Spurs hat cutie.  Autumn wished she could be so care free. Even now the tingle in her spine was spreading down her legs. And she was started to feel a bit light headed. Now was not the time for a panic attack. Autumn took one step backwards away from the rail and turn to head for a seat at the bar. Instead of a clear path Autumn hit a brick wall and stumbled backward against the rails. Her heels rolled and she braced for a humiliating fall. The crash never came. In a blink she was pulled forward and pressed against the brick wall again. But this time she felt a hand against her spine and the tingle started to spread through her body. 
+ His dark wavy hair fell in front of his eyes like a curtain. But beyond that wavy veil were the most seductive pair of blue eyes starring at her.  His eye seemed to glow in the club lights. At second glance that wasnt seduction in those blue eyes it was anger.
+Im so sorry. Im not feeling… Nevermind I’ll just get out of your way. 
+The hand on Autumn spine pressed her even more firmly against the stranger before letting go.
+Please. Im the one who should watch where theyre going. I apologize for my clumsiness. Let me buy you a drink. Im River.
+Im Autumn but Im just drinking water and I need to head back to my friend, Autumn said gesturing toward the dance floor below. 
+The young lady with the purple hair? I saw you dancing with her. Why don’t I buy a drink for both of you and I’ll walk you back to your friend to we can have a little time to talk.
+Ok. That is very nice of you.
+</Text>
+        </Document>
+        <Document ID="89B13BE7-31C7-43FF-8E30-7A9BA402C959">
+            <Title>Ebook</Title>
+        </Document>
+        <Document ID="9A470BDE-CF2B-4872-97C6-74F19BC90197">
+            <Title>Sample Output</Title>
+        </Document>
+        <Document ID="9A780E04-38CF-42AC-A084-5E946251F782"/>
+        <Document ID="9FDC7D70-BD4A-472E-B140-EDA8E105FAD6">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+
+&lt;$author&gt;</Text>
+            <Notes>These tags get replaced with the information set in the metadata tab of compile. Alternatively, you can simply replace this text altogether.</Notes>
+        </Document>
+        <Document ID="A1F519C4-9F72-4DAE-A340-5DE993FD7933"/>
+        <Document ID="AA7F21EF-A4C4-485A-8044-6A7856D23E5B">
+            <Title>Paperback Novel</Title>
+            <Text>MY GREAT
+  NOVEL
+
+    Anton Mouse
+
+
+Copyright © 2021 Anton Mouse
+
+        All rights reserved.
+
+                ISBN:
+              ISBN-13:
+
+
+Insert dedication here.
+
+
+
+                    CHAPTER ONE
+
+                 The Mayor of Castanets
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Aliquam euismod porta tortor, non pretium justo tristique id.
+Nunc dignissim, metus at fringilla congue, diam sapien
+aliquet quam, sed eleifend nunc odio quis mi. In blandit nec
+dolor ullamcorper cursus.
+
+   Maecenas in lorem sit amet lorem tempor tincidunt sit
+amet non ligula. Phasellus rutrum ex quis sagi is
+condimentum. Class aptent taciti sociosqu ad litora torquent
+per conubia nostra, per inceptos himenaeos. Ut hendrerit ante
+et vehicula vulputate. Nulla venenatis pretium nisl, quis
+ullamcorper mi condimentum a. Nam ultrices elit arcu,
+tincidunt aliquet risus tempor et.
+
+Morbi ac rutrum urna. Pellentesque commodo mi vel congue
+scelerisque. Fusce a lorem sed urna dignissim pulvinar non
+in magna. Mauris blandit in nisl vitae scelerisque.
+
+   Vestibulum sagi is felis et mauris euismod posuere.
+Curabitur in tellus sit amet lorem ornare pharetra.
+Vestibulum vel placerat, fermentum elit id, hendrerit libero.
+
+                                             1
+
+
+                                     Anton Mouse
+
+                                        * * *
+Etiam ma is consectetur egestas. Etiam nec nunc ornare,
+blandit ex sit amet, feugiat ligula.
+
+   Pellentesque bibendum placerat risus a semper.
+Pellentesque consequat faucibus pellentesque. Nullam in
+aliquet est. Ut imperdiet augue sed mauris molestie ultrices.
+Aliquam eros tellus, venenatis sit amet arcu et, placerat
+lacinia ex.
+
+   Donec sollicitudin odio id urnaz semper, tempus maximus
+nibh sagi is. Cras lacinia orci ut vehicula molestie. Nulla
+facilisi. Aenean sodales ut neque sed sodales. Nulla
+pellentesque tincidunt ante, ut eleifend risus ﬁnibus eu. In
+quis luctus orci. Donec a lorem tristique, egestas dui nec,
+interdum augue. Aliquam imperdiet vestibulum ultricies.
+
+   Suspendisse augue ante, tristique gravida dolor id, ﬁnibus
+volutpat nisl. Aenean dapibus sollicitudin est. Duis aliquam
+lacus nec velit lobortis, vitae pulvinar diam commodo.
+Suspendisse scelerisque purus nec nunc ornare rhoncus.
+Vivamus eu aliquet est. Maecenas cursus quis elit vel ornare.
+Fusce vitae nisi non purus pretium pellentesque nec
+imperdiet justo. Morbi dictum elementum felis non
+sollicitudin.
+
+Ut in turpis varius, suscipit magna non, cursus mi.
+Suspendisse sem nunc, facilisis eu scelerisque at, tincidunt id
+nulla. Ut condimentum orci et erat venenatis varius.
+Vestibulum dapibus, mauris eu rhoncus elementum, ante
+purus ultrices est, id ultricies metus tellus vel tortor. Nam
+euismod pharetra faucibus.
+
+   Praesent scelerisque fermentum tortor, bibendum ornare
+turpis posuere nec. Curabitur in odio eu massa condimentum
+tincidunt. Pellentesque dapibus metus tellus, quis porta
+lectus feugiat in. In ac imperdiet elit. In risus est, rhoncus
+
+                                             2
+
+
+                                   My Great Novel
+
+eget vehicula id, feugiat at ipsum. Morbi pulvinar dolor quis
+nisi tincidunt vulputate ut id felis.
+Maecenas sed nisi laoreet purus consectetur semper at eget
+nulla. Donec faucibus velit tortor, eget venenatis eros laoreet
+vel. Duis non lacus metus. Donec suscipit sodales velit nec
+lobortis.
+
+   Aliquam erat volutpat. Sed semper vel purus ac feugiat.
+Praesent arcu nulla, por itor vitae leo id, convallis molestie
+sem. Proin molestie, tellus eget volutpat egestas, diam lorem
+dictum massa, lobortis egestas leo massa convallis enim.
+Morbi feugiat quam non ornare bibendum. Praesent mollis
+vitae leo a sodales. Nullam mollis dolor quis nisi congue, at
+maximus enim tempor. Vestibulum ut leo ac dui ornare
+malesuada.
+
+                                             3
+
+
+                    CHAPTER TWO
+
+                   A Tomb with a View
+
+Aliquam euismod porta tortor, non pretium justo tristique id.
+Nunc dignissim, metus at fringilla congue, diam sapien
+aliquet quam, sed eleifend nunc odio quis mi. In blandit nec
+dolor ullamcorper cursus.
+
+   Maecenas in lorem sit amet lorem tempor tincidunt sit
+amet non ligula. Phasellus rutrum ex quis sagi is
+condimentum. Class aptent taciti sociosqu ad litora torquent
+per conubia nostra, per inceptos himenaeos. Ut hendrerit ante
+et vehicula vulputate. Nulla venenatis pretium nisl, quis
+ullamcorper mi condimentum a. Nam ultrices elit arcu,
+tincidunt aliquet risus tempor et.
+
+   Morbi ac rutrum urna. Pellentesque commodo mi vel
+congue scelerisque. Fusce a lorem sed urna dignissim
+pulvinar non in magna. Mauris blandit in nisl vitae
+scelerisque. Vestibulum sagi is felis et mauris euismod
+posuere. Curabitur in tellus sit amet lorem ornare pharetra.
+Vestibulum vel magna placerat, fermentum elit id, hendrerit
+libero. Etiam ma is consectetur egestas. Etiam nec nunc
+ornare, blandit ex sit amet, feugiat ligula.
+
+                                             4
+
+
+                                   My Great Novel
+
+   Pellentesque bibendum placerat risus a semper.
+Pellentesque consequat faucibus pellentesque. Nullam in
+aliquet est. Ut imperdiet augue sed mauris molestie ultrices.
+Aliquam eros tellus, venenatis sit amet arcu et, placerat
+lacinia ex.
+
+Donec sollicitudin odio id urna semper, tempus maximus
+nibh sagi is. Cras lacinia orci ut vehicula molestie. Nulla
+facilisi. Aenean sodales ut neque sed sodales. Nulla
+pellentesque tincidunt ante, ut eleifend risus ﬁnibus eu. In
+quis luctus orci. Donec a lorem tristique, egestas dui nec,
+interdum augue. Aliquam imperdiet vestibulum ultricies.
+
+   Suspendisse augue ante, tristique gravida dolor id, ﬁnibus
+volutpat nisl. Aenean dapibus sollicitudin est. Duis aliquam
+lacus nec velit lobortis, vitae pulvinar diam commodo.
+Suspendisse scelerisque purus nec nunc ornare rhoncus.
+Vivamus eu aliquet est. Maecenas cursus quis elit vel ornare.
+Fusce vitae nisi non purus pretium pellentesque nec
+imperdiet justo. Morbi dictum elementum felis non
+sollicitudin.
+
+   Ut in turpis varius, suscipit magna non, cursus mi.
+Suspendisse sem nunc, facilisis eu scelerisque at, tincidunt id
+nulla. Ut condimentum orci et erat venenatis varius.
+Vestibulum dapibus, mauris eu rhoncus elementum, ante
+purus ultrices est, id ultricies metus tellus vel tortor. Nam
+euismod pharetra faucibus.
+
+Praesent scelerisque fermentum tortor, bibendum ornare
+turpis posuere nec. Curabitur in odio eu massa condimentum
+tincidunt. Pellentesque dapibus metus tellus, quis porta
+lectus feugiat in. In ac imperdiet elit. In risus est, rhoncus
+eget vehicula id, feugiat at ipsum.
+
+   Morbi pulvinar dolor quis nisi tincidunt vulputate ut id
+
+                                             5
+
+
+                                     Anton Mouse
+
+felis. Maecenas sed nisi laoreet purus consectetur semper at
+eget nulla. Donec faucibus velit tortor, eget venenatis eros
+laoreet vel. Duis non lacus metus. Donec suscipit sodales velit
+nec lobortis.
+
+   Aliquam erat volutpat. Sed semper vel purus ac feugiat.
+Praesent arcu nulla, por itor vitae leo id, convallis molestie
+sem. Proin molestie, tellus eget volutpat egestas, diam lorem
+dictum massa, lobortis egestas leo massa convallis enim.
+Morbi feugiat quam non ornare bibendum. Praesent mollis
+vitae leo a sodales. Nullam mollis dolor quis nisi congue, at
+maximus enim tempor. Vestibulum ut leo ac dui ornare
+malesuada.
+
+                                             6
+
+
+                   CHAPTER THREE
+
+                     Madame Topiary
+
+Phasellus rutrum ex quis sagi is condimentum. Class aptent
+taciti sociosqu ad litora torquent per conubia nostra, per
+inceptos himenaeos. Ut hendrerit ante et vehicula vulputate.
+Nulla venenatis pretium nisl, quis ullamcorper mi
+condimentum a. Nam ultrices elit arcu, tincidunt aliquet risus
+tempor et.
+
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Aliquam euismod porta tortor, non pretium justo tristique id.
+Nunc dignissim, metus at fringilla congue, diam sapien
+aliquet quam, sed eleifend nunc odio quis mi. In blandit nec
+dolor ullamcorper cursus. Maecenas in lorem sit amet lorem
+tempor tincidunt sit amet non ligula.
+
+   Morbi ac rutrum urna. Pellentesque commodo mi vel
+congue scelerisque. Fusce a lorem sed urna dignissim
+pulvinar non in magna. Mauris blandit in nisl vitae
+scelerisque. Vestibulum sagi is felis et mauris euismod
+posuere. Curabitur in tellus sit amet lorem ornare pharetra.
+Vestibulum vel magna placerat, fermentum elit id, hendrerit
+libero.
+
+                                             7
+
+
+                                     Anton Mouse
+
+                                        * * *
+Etiam ma is consectetur egestas. Etiam nec nunc ornare,
+blandit ex sit amet, feugiat ligula. Pellentesque bibendum
+placerat risus a semper. Pellentesque consequat faucibus
+pellentesque. Nullam in aliquet est. Ut imperdiet augue sed
+mauris molestie ultrices. Aliquam eros tellus, venenatis sit
+amet arcu et, placerat lacinia ex.
+
+   Donec sollicitudin odio id urna semper, tempus maximus
+nibh sagi is. Cras lacinia orci ut vehicula molestie. Nulla
+facilisi. Aenean sodales ut neque sed sodales. Nulla
+pellentesque tincidunt ante, ut eleifend risus ﬁnibus eu. In
+quis luctus orci. Donec a lorem tristique, egestas dui nec,
+interdum augue. Aliquam imperdiet vestibulum ultricies.
+
+   Suspendisse augue ante, tristique gravida dolor id, ﬁnibus
+volutpat nisl. Aenean dapibus sollicitudin est. Duis aliquam
+lacus nec velit lobortis, vitae pulvinar diam commodo.
+Suspendisse scelerisque purus nec nunc ornare rhoncus.
+Vivamus eu aliquet est. Maecenas cursus quis elit vel ornare.
+Fusce vitae nisi non purus pretium pellentesque nec
+imperdiet justo. Morbi dictum elementum felis non
+sollicitudin.
+
+Ut in turpis varius, suscipit magna non, cursus mi.
+Suspendisse sem nunc, facilisis eu scelerisque at, tincidunt id
+nulla. Ut condimentum orci et erat venenatis varius.
+Vestibulum dapibus, mauris eu rhoncus elementum, ante
+purus ultrices est, id ultricies metus tellus vel tortor. Nam
+euismod pharetra faucibus.
+
+   Praesent scelerisque fermentum tortor, bibendum ornare
+turpis posuere nec. Curabitur in odio eu massa condimentum
+tincidunt. Pellentesque dapibus metus tellus, quis porta
+lectus feugiat in. In ac imperdiet elit. In risus est, rhoncus
+eget vehicula id, feugiat at ipsum. Morbi pulvinar dolor quis
+
+                                             8
+
+
+                                   My Great Novel
+
+nisi tincidunt vulputate ut id felis. Maecenas sed nisi laoreet
+purus consectetur semper at eget nulla. Donec faucibus velit
+tortor, eget venenatis eros laoreet vel. Duis non lacus metus.
+Donec suscipit sodales velit nec lobortis.
+
+   Aliquam erat volutpat. Sed semper vel purus ac feugiat.
+Praesent arcu nulla, por itor vitae leo id, convallis molestie
+sem. Proin molestie, tellus eget volutpat egestas, diam lorem
+dictum massa, lobortis egestas leo massa convallis enim.
+Morbi feugiat quam non ornare bibendum. Praesent mollis
+vitae leo a sodales. Nullam mollis dolor quis nisi congue, at
+maximus enim tempor. Vestibulum ut leo ac dui ornare
+malesuada.
+
+                                             9
+
+
+                   CHAPTER FOUR
+                       Muddlemarch
+
+Morbi ac rutrum urna. Pellentesque commodo mi vel congue
+scelerisque.
+
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Aliquam euismod porta tortor, non pretium justo tristique id.
+Nunc dignissim, metus at fringilla congue, diam sapien
+aliquet quam, sed eleifend nunc odio quis mi. In blandit nec
+dolor ullamcorper cursus.
+
+   Maecenas in lorem sit amet lorem tempor tincidunt sit
+amet non ligula. Phasellus rutrum ex quis sagi is
+condimentum. Class aptent taciti sociosqu ad litora torquent
+per conubia nostra, per inceptos himenaeos. Ut hendrerit ante
+et vehicula vulputate. Nulla venenatis pretium nisl, quis
+ullamcorper mi condimentum a. Nam ultrices elit arcu,
+tincidunt aliquet risus tempor et.
+
+Fusce a lorem sed urna dignissim pulvinar non in magna.
+Mauris blandit in nisl vitae scelerisque. Vestibulum sagi is
+felis et mauris euismod posuere. Curabitur in tellus sit amet
+lorem ornare pharetra. Vestibulum vel magna placerat,
+
+                                            10
+
+
+                                   My Great Novel
+
+fermentum elit id, hendrerit libero. Etiam ma is consectetur
+egestas. Etiam nec nunc ornare, blandit ex sit amet, feugiat
+ligula.
+
+   Pellentesque bibendum placerat risus a semper.
+Pellentesque consequat faucibus pellentesque. Nullam in
+aliquet est. Ut imperdiet augue sed mauris molestie ultrices.
+Aliquam eros tellus, venenatis sit amet arcu et, placerat
+lacinia ex.
+
+   Donec sollicitudin odio id urna semper, tempus maximus
+nibh sagi is. Cras lacinia orci ut vehicula molestie. Nulla
+facilisi. Aenean sodales ut neque sed sodales.
+
+Nulla pellentesque tincidunt ante, ut eleifend risus ﬁnibus eu.
+In quis luctus orci. Donec a lorem tristique, egestas dui nec,
+interdum augue. Aliquam imperdiet vestibulum ultricies.
+Suspendisse augue ante, tristique gravida dolor id, ﬁnibus
+volutpat nisl.
+
+   Aenean dapibus sollicitudin est. Duis aliquam lacus nec
+velit lobortis, vitae pulvinar diam commodo. Suspendisse
+scelerisque purus nec nunc ornare rhoncus. Vivamus eu
+aliquet est. Maecenas cursus quis elit vel ornare. Fusce vitae
+nisi non purus pretium pellentesque nec imperdiet justo.
+Morbi dictum elementum felis non sollicitudin.
+
+   Ut in turpis varius, suscipit magna non, cursus mi.
+Suspendisse sem nunc, facilisis eu scelerisque at, tincidunt id
+nulla. Ut condimentum orci et erat venenatis varius.
+
+Vestibulum dapibus, mauris eu rhoncus elementum, ante
+purus ultrices est, id ultricies metus tellus vel tortor. Nam
+euismod pharetra faucibus. Praesent scelerisque fermentum
+tortor, bibendum ornare turpis posuere nec.
+
+   Curabitur in odio eu massa condimentum tincidunt.
+Pellentesque dapibus metus tellus, quis porta lectus feugiat
+
+                                            11
+
+
+                                     Anton Mouse
+
+in. In ac imperdiet elit. In risus est, rhoncus eget vehicula id,
+feugiat at ipsum. Morbi pulvinar dolor quis nisi tincidunt
+vulputate ut id felis. Maecenas sed nisi laoreet purus
+consectetur semper at eget nulla. Donec faucibus velit tortor,
+eget venenatis eros laoreet vel. Duis non lacus metus. Donec
+suscipit sodales velit nec lobortis.
+
+   Aliquam erat volutpat. Sed semper vel purus ac feugiat.
+Praesent arcu nulla, por itor vitae leo id, convallis molestie
+sem. Proin molestie, tellus eget volutpat egestas, diam lorem
+dictum massa, lobortis egestas leo massa convallis enim.
+Morbi feugiat quam non ornare bibendum. Praesent mollis
+vitae leo a sodales. Nullam mollis dolor quis nisi congue, at
+maximus enim tempor. Vestibulum ut leo ac dui ornare
+malesuada.
+
+                                            12
+
+
+                    CHAPTER FIVE
+        Do Sheep Dream of Woolly Androids?
+
+Class aptent taciti sociosqu ad litora torquent per conubia
+nostra, per inceptos himenaeos. Ut hendrerit ante et vehicula
+vulputate. Nulla venenatis pretium nisl, quis ullamcorper mi
+condimentum a. Nam ultrices elit arcu, tincidunt aliquet risus
+tempor et.
+
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Aliquam euismod porta tortor, non pretium justo tristique id.
+Nunc dignissim, metus at fringilla congue, diam sapien
+aliquet quam, sed eleifend nunc odio quis mi. In blandit nec
+dolor ullamcorper cursus.
+
+   Maecenas in lorem sit amet lorem tempor tincidunt sit
+amet non ligula. Phasellus rutrum ex quis sagi is
+condimentum.
+
+   Morbi ac rutrum urna. Pellentesque commodo mi vel
+congue scelerisque. Fusce a lorem sed urna dignissim
+pulvinar non in magna.
+
+Mauris blandit in nisl vitae scelerisque. Vestibulum sagi is
+felis et mauris euismod posuere. Curabitur in tellus sit amet
+
+                                            13
+
+
+                                     Anton Mouse
+
+lorem ornare pharetra. Vestibulum vel magna placerat,
+fermentum elit id, hendrerit libero. Etiam ma is consectetur
+egestas.
+
+   Etiam nec nunc ornare, blandit ex sit amet, feugiat ligula.
+Pellentesque bibendum placerat risus a semper. Pellentesque
+consequat faucibus pellentesque. Nullam in aliquet est. Ut
+imperdiet augue sed mauris molestie ultrices. Aliquam eros
+tellus, venenatis sit amet arcu et, placerat lacinia ex.
+
+   Donec sollicitudin odio id urna semper, tempus maximus
+nibh sagi is. Cras lacinia orci ut vehicula molestie. Nulla
+facilisi. Aenean sodales ut neque sed sodales.
+
+Nulla pellentesque tincidunt ante, ut eleifend risus ﬁnibus eu.
+In quis luctus orci. Donec a lorem tristique, egestas dui nec,
+interdum augue. Aliquam imperdiet vestibulum ultricies.
+Suspendisse augue ante, tristique gravida dolor id, ﬁnibus
+volutpat nisl.
+
+   Aenean dapibus sollicitudin est. Duis aliquam lacus nec
+velit lobortis, vitae pulvinar diam commodo. Suspendisse
+scelerisque purus nec nunc ornare rhoncus. Vivamus eu
+aliquet est. Maecenas cursus quis elit vel ornare. Fusce vitae
+nisi non purus pretium pellentesque nec imperdiet justo.
+Morbi dictum elementum felis non sollicitudin.
+
+   Ut in turpis varius, suscipit magna non, cursus mi.
+Suspendisse sem nunc, facilisis eu scelerisque at, tincidunt id
+nulla.
+
+Ut condimentum orci et erat venenatis varius. Vestibulum
+dapibus, mauris eu rhoncus elementum, ante purus ultrices
+est, id ultricies metus tellus vel tortor. Nam euismod pharetra
+faucibus. Praesent scelerisque fermentum tortor, bibendum
+ornare turpis posuere nec. Curabitur in odio eu massa
+condimentum tincidunt.
+
+                                            14
+
+
+                                   My Great Novel
+
+   Pellentesque dapibus metus tellus, quis porta lectus feugiat
+in. In ac imperdiet elit. In risus est, rhoncus eget vehicula id,
+feugiat at ipsum. Morbi pulvinar dolor quis nisi tincidunt
+vulputate ut id felis. Maecenas sed nisi laoreet purus
+consectetur semper at eget nulla. Donec faucibus velit tortor,
+eget venenatis eros laoreet vel. Duis non lacus metus. Donec
+suscipit sodales velit nec lobortis.
+
+   Aliquam erat volutpat. Sed semper vel purus ac feugiat.
+Praesent arcu nulla, por itor vitae leo id, convallis molestie
+sem. Proin molestie, tellus eget volutpat egestas, diam lorem
+dictum massa, lobortis egestas leo massa convallis enim.
+Morbi feugiat quam non ornare bibendum. Praesent mollis
+vitae leo a sodales. Nullam mollis dolor quis nisi congue, at
+maximus enim tempor. Vestibulum ut leo ac dui ornare
+malesuada.
+
+                                            15
+
+
+                     CHAPTER SIX
+        The Unbearable Lightness of Punning
+
+Ut in turpis varius, suscipit magna non, cursus mi.
+Suspendisse sem nunc, facilisis eu scelerisque at, tincidunt id
+nulla. Ut condimentum orci et erat venenatis varius.
+Vestibulum dapibus, mauris eu rhoncus elementum, ante
+purus ultrices est, id ultricies metus tellus vel tortor.
+
+   Morbi ac rutrum urna. Pellentesque commodo mi vel
+congue scelerisque. Fusce a lorem sed urna dignissim
+pulvinar non in magna. Mauris blandit in nisl vitae
+scelerisque. Vestibulum sagi is felis et mauris euismod
+posuere.
+
+   Curabitur in tellus sit amet lorem ornare pharetra.
+Vestibulum vel magna placerat, fermentum elit id, hendrerit
+libero. Etiam ma is consectetur egestas. Etiam nec nunc
+ornare, blandit ex sit amet, feugiat ligula. Pellentesque
+bibendum placerat risus a semper.
+
+Pellentesque consequat faucibus pellentesque. Nullam in
+aliquet est. Ut imperdiet augue sed mauris molestie ultrices.
+Aliquam eros tellus, venenatis sit amet arcu et, placerat
+
+                                            16
+
+
+                                   My Great Novel
+
+lacinia ex. Donec sollicitudin odio id urna semper, tempus
+maximus nibh sagi is.
+
+   Cras lacinia orci ut vehicula molestie. Nulla facilisi.
+Aenean sodales ut neque sed sodales. Nulla pellentesque
+tincidunt ante, ut eleifend risus ﬁnibus eu. In quis luctus orci.
+
+   Donec a lorem tristique, egestas dui nec, interdum augue.
+Aliquam imperdiet vestibulum ultricies. Suspendisse augue
+ante, tristique gravida dolor id, ﬁnibus volutpat nisl. Aenean
+dapibus sollicitudin est.
+
+   Duis aliquam lacus nec velit lobortis, vitae pulvinar diam
+commodo. Suspendisse scelerisque purus nec nunc ornare
+rhoncus. Vivamus eu aliquet est. Maecenas cursus quis elit
+vel ornare. Fusce vitae nisi non purus pretium pellentesque
+nec imperdiet justo. Morbi dictum elementum felis non
+sollicitudin.
+
+Nam euismod pharetra faucibus. Praesent scelerisque
+fermentum tortor, bibendum ornare turpis posuere nec.
+Curabitur in odio eu massa condimentum tincidunt.
+Pellentesque dapibus metus tellus, quis porta lectus feugiat
+in.
+
+   In ac imperdiet elit. In risus est, rhoncus eget vehicula id,
+feugiat at ipsum. Morbi pulvinar dolor quis nisi tincidunt
+vulputate ut id felis. Maecenas sed nisi laoreet purus
+consectetur semper at eget nulla. Donec faucibus velit tortor,
+eget venenatis eros laoreet vel. Duis non lacus metus. Donec
+suscipit sodales velit nec lobortis.
+
+   Aliquam erat volutpat. Sed semper vel purus ac feugiat.
+Praesent arcu nulla, por itor vitae leo id, convallis molestie
+sem. Proin molestie, tellus eget volutpat egestas, diam lorem
+dictum massa, lobortis egestas leo massa convallis enim.
+
+   Morbi feugiat quam non ornare bibendum. Praesent mollis
+vitae leo a sodales. Nullam mollis dolor quis nisi congue, at
+
+                                            17
+
+
+                                     Anton Mouse
+
+maximus enim tempor. Vestibulum ut leo ac dui ornare
+malesuada. Maecenas in lorem sit amet lorem tempor
+tincidunt sit amet non ligula. Phasellus rutrum ex quis
+sagi is condimentum.
+
+                                            18
+</Text>
+        </Document>
+        <Document ID="B23591A4-8EC3-4E1F-B242-ECCA0207561C">
+            <Title>Blank Page</Title>
+            <Text>&lt;$BLANK_PAGE&gt;</Text>
+            <Notes>During compile, Scrivener will try to remove any unnecessary blank pages. The &lt;$BLANK_PAGE&gt; tag tells Scrivener to leave this page blank (the tag itself will be removed from the compiled document).</Notes>
+        </Document>
+        <Document ID="C3050EB1-2E89-440A-B895-34CF98E879FD">
+            <Title>scene 3</Title>
+        </Document>
+        <Document ID="CC61F107-A42E-4176-9EA8-63DDAF3E061B"/>
+        <Document ID="D8A88026-2149-4126-B63A-A2621473222A">
+            <Title>scene</Title>
+            <Text>Autumn walked out into the the warm evening air. In the summer the sun didn’t set until around seven so that would give her about an hour to make it home. Her funky night vision made driving in the dark a little scary. It was like everything was normal one minute and the next someone had turned up the brightness of the world so much that her vision went white.  Another symptom that had started after her fall. She kept meaning the see a doctor but who had the time. They were short handed at the storage place so between working extra hours, and volunteering with the children at rainbow house she barely had the energy or time for anything else. So seeing a doctor about her crazy vision would just have to wait.
+As always Autumn had to parked across the street a block away from Rainbow House in front of the church. There were always people coming and going from the building. The church was very involved with community including Rainbow House. In fact she had first met Reverend Adams and Reverend Thomas at the Holiday fund raiser for Rainbow house. The two men had insisted that she use the church parking lot due to the lighting. Autumn usually stayed late and quickly accepted the offer. A girl cant be too careful. Especially after dark. The church reached out to the press to draw more attention to the needs at the orphanage. And man did it work. Reverend Adams and Reverend Thomas had provided cookies for the holiday bake sale. Between the press and the bake sale Rainbow house was able to raise more than enough money to get blankets and warm clothes for all the children.  Not to mention the anonymous donor who claimed he had seen the story on the news and wanted to brighten the holidays for the children.  With his extremely generous donation all the children had gifts under a very tall Christmas tree. 
+Autumn phone dinged pulling her out of her thoughts. Reaching into the side pocket of your cross body purse Autumn snagged the phone and what do you know. Adam needed her to work extra hours in the morning.
+ A hand grabbed Autumn suddenly as she attempted to step off the curb and cross the street. She tried to pull away but stopped as a truck speed past without ever tapping the brake. 
+Watch where you’re going said a deep voice from a stranger.
+Oh my goodness Autumn said over the sound of her own heart pounding. You saved my life.  That truck came out of nowhere. Thank you.
+The stranger stayed silent. His gaze was fixed on his own hand wrapped around her arm. He seemed to be lost in thought.
+Are you ok, sir? Autumn asked. I think it safe to let go now she said with a grin.
+Yes. he said finally letting go. You seem to be out of danger for now. And please call me Jack.
+Autumn looked at her hero’s face for the first time and almost drowned in his dark blue eyes. Dark blue with a splash of aqua surrounding the pupil. Such a beautiful and interesting trait. Like living art.
+Jack she said still unblinking
+She tried not to stare but between those stormy blue eyes, that five o’clock shadow and that full bottom lip…Wow.  He was a near perfect. The stuff wet dreams were made of.
+I- um I’m Autumn she stammered 
+When had she developed a stutter? And when had her body started buzzing like a downed power line?
+She shouldn’t be objectifying this man. The good ones were always taken anyway. But damn a girl could dream.
+Well I better be going but thank you again. Thank you Jack.
+Of course Jack responded
+
+Of course Jack thought. Of course she was Autumn. He was still picking his tongue up off the sidewalk. This wayward fae knocked him on his ass and he couldnt stop staring at hers as she crossed the street to the church.
+He had decided to start his search for Autumn at the orphanage. Hoping he would catch her there. He had spotted the petite female walking down the sidewalk in his direction. In the late afternoon light he could see the feminine sway of her hips. Was almost hypnotized by it. The closer she came the more entranced he became. When he heard the truck engine reeving a tingle started at the back of his neck. He saw the woman’s intended direction and knew what would happen without intervention. 
+When he touched the womans arm he felt it. The tingle spread though his body like a shock wave. Follow by a healthy dose of lust and something else. Something he would have to ignore if was to complete this mission. And he would complete the mission for his queen.
+
+
+After the drive home Autumn couldn’t wait to shower, slip into her PJs and curl up with a good book.
+When she walked through the front door she could hear the bass notes of Work by Rihanna coming from the bathroom. Which meant Vi was hitting the club tonight. Vi was a social butterfly in every way. Social because she made friends easily and  the butterfly part explained itself as Violet gave her best diva walk into the living room. 
+What do you think Violet asked. Is it too naked or just naked enough?
+Her wavy ombre purple hair was slicked into a high pony and matched her electric lavender heels. When a girl had features like Vi she did not hide behind hair. Not to mention the thick thighs save lives that she was serving in her well fitted black and white floral romper. Her roomate was beautiful. 
+Autumn had never felt beautiful in all of her twenty six years. Cute maybe but not beautiful.  Her gray eyes were a little big for her face but her lashes were nice and thick.  Her dark coils would never slick down like Vi’s. Instead Autumns hair was thick cluster of tight curls that did whatever they wanted most of the time. And if Autumn dared try to tame the locs with a slick back there would be hell to pay in the form of frizz.
+You look great. Not too naked. Autumn said heading toward her bedroom
+Thanks. Do you need help finding something to wear?
+No Autumn replied. I know just the pair of comfy jammies Im looking for.
+No ma’am. No jammies.  You need a night out. 
+A night in? Autumn said
+No you need a night out. Come dance with me Vi said winding her hips to the beat. 
+Come on Autumsn. It will be so much fun besides your are too young and beautiful to be in the house every weekend.
+ Im really tired Vi. Raincheck?
+Fine Vi said but tomorrow is Saturday and I know you dont have to work so Im putting you on notice Autumn West. You are going out with me tomorrow night. And I will be especially hurt if you say no. Violet made sure to stick out her bottom lip and flash puppy eyes in Autumn’s direction.
+Autumn took a deep breath and exhaled  knowing she had no other choice. Alright. You win. I could use a little fun after today. But first I need a hot shower and a night of rest.
+Wait. What happened? Was you boss giving you a hard time again. He knows you have to leave by four to make it the Rainbow house for dinner on Friday nights. I swear. Friday is the only day you ask to leave early and he’s still——
+No no Vi its not that. I… I almost got run over by a truck in front of Rainbow House. 
+Oh my god Autumn. Are you alright? Are you hurt?
+Yeah Im fine. I guess my luck is changing. This guy came out of nowhere and pulled me back onto the side walk just in time.
+Thank goodness.
+Yeah. Im fine. I just need to rest you know. Prepare for the adrenaline crash. Besides Adam needs me to come in early in the morning.
+Of course. I’ll turn the music off so you can rest. Do you want me to stay in with you tonight?
+No. I’m fine but thanks. Go have fun.
+Ok Violet said hesitantly if you are sure
+Im positive
+
+
+
+After a quick shower Autumn slipped into her favorite PJs. In summer she preferred a light tank and very cute purple ruffle sleep shorts. Sometimes a girl just wanted to be a girl. Autumn curled  up in bed and before long was sleeping like a baby.
+Autumn opened her eyes and stared at the stars in the night sky. Beautiful.  The stars seemed to be brighter and the sky darker. She sat up and rubbed her eyes. A warm breeze ruffled her curly hair. When had her bed been moved outside? She was dreaming. Her bed was in a forest under the stars. No doubt this was the same forest she had dreamed of the the past month. This was however the first time she had found herself in her bed in the forest.  Rustling beyond the trees caught Autumns attention. Intrigued but not afraid Autumn swung both feet over the side of the bed to stand on the grass. She could feel the grass between her toes. How?
+Hey!
+Autumn’s turned to the sound and frowned at the person who had emerged from the forest in front of her. What now? Did she really dream up a lover?
+Long legs encased in low slung joggers moved swiftly in her direction. He looked ready for bed to her. The closer he came the better the view.  A very happy trail of dark hair cover his lower abs. And oh what wonderful abs they are. 
+Damn when I dream up a man I check all the boxes.
+When he stopped in front of her Autumn finally could see his face. Blue eyes the color of the sea looked down at her own.
+Jack?
+Autumn?
+Wow. I only met the guy one time and I’m having a sex dream about him.  Autumn mumbled
+“Sex dream?”  Jack interjected 
+“He did save my life” Autumn continued thinking out loud. “Who wouldn’t want a real life hero? So what if its a desperate sex dream.”
+“Desperate?”
+He seemed almost offended. Of course her dream guy was sensitive too. 
+Without wasting anymore time Autumn reached up to frame his face with her hands. The prickling of his five o’clock shadow sent tingles racing down her arms cause her nipples to tighten under her favorite tank top.
+Jack opened his mouth on a rough inhale and Autumn wasted no time accepting the invitation.  She quickly rose to her tip toes and pressed her lips to his. She licked and nibbled at his full bottom lip. Sighing and moaning she let her pleasure be known.
+Then with a deep moan Jack took control of the kiss. Pressing his lips roughly to hers with one hand at the base of her neck to accentuate his his command. His other hand swept down the side of her breast, skimmed over her waist and came to rest on her round backside.
+Autumn took this as an invitation to rap her legs around Jack’s strong waist. Her arms were tingling before but now her whole body was buzzing like a live wire. She could help but shiver even though she wasn’t cold. Her body had never felt anything like this.
+“Bed” Autumn demanded between warm kisses.
+“Oh my fuck” Jack cursed turning to following her order
+Jack could feel the wet heat of Autumns core pressed against his naked waist.
+Stop his conscious yelled.  This isn’t right. But his conscious was a fucking lier. This felt all kinds of right. Jack let his finger slide underneath Autumns purple shorts. The treasure he found there would have brought him to his knees had he still been standing. 
+“Fuck you’re wet. 
+Autumn lay back with her beautiful brown thighs spread to welcome his every touch. She was arching her back and whimpering as he pump his finger in and out and in and out. 
+She rode his finger to orgasm.
+Fuck me Jack. Fuck me.
+Her sweet filthy mouth would kill him if he wasnt careful.
+
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="EE2FFED1-0950-49DB-97AB-EB1631122AA6">
+            <Title>scene3</Title>
+            <Synopsis>It had been about six months since she had gone out. She would have to shake the dust off he club clothes but it would be fun to go out dancing with her bestie.
+OK I’ll go. 
+
+Two and a half hours later Autumn and Violet walked into the club. 
+
+Purple lights swirled around the first floor. Bodies swayed to the heavy bass of the music.  The DJ was on a platform the the left that looked large enough for a live band. To the right a long padded bench lined the wall with small a small table and chair placed ever four feet or so for additional seating.  Behind the long padded bench was the stairway to the second floor. Straight ahead was the bar.  
+I know where I’m headed first. Autumn said nodding toward the bar.
+Shots! Shots! Shots! Good idea Violet agreed as they both started to weave there way through the sea of people on the dance floor.
+
+Two vodka shots later Autumn felt a tingle down her back as if someone had caressed her. She turned around looking for the asshole who tried to cop a feel but no one was there.  Still she felt something.
+“Autumn?” Vi called of the music. You ok?
+“Yeah” Autumn said toying with her necklace. I just… It’s nothing. Its just been a while since Ive been out.
+Oh ok well lets go shake the rust off. Vi grabbed my had and we headed back to the floor.
+Three bass throbbing, waist winding, hip shaking songs later I still couldn’t shake the tingle down my back. 
+I need a drink. Water.
+Ok. I’ll come with.
+No. Its ok.  Im a big girl. Besides the cutie in the hat is checking you out. Have fun.
+Autumn just needed a moment to shake off the weird feeling. Plus the dance floor was packed and she had to get some air.  Autumn had no idea where she was going she just had to get away from the crowd. Absent minded she walked toward seating area but continued past the padded bench to the staircase and headed for the club’s second floor balcony. The second floor provided a birds eye view of the dance floor below.  She could see Violet slow grinding on the Spurs hat cutie.  Autumn wished she could be so care free. Even now the tingle in her spine was spreading down her legs. And she was started to feel a bit light headed. Now was not the time for a panic attack. Autumn took one step backwards away from the rail and turn to head for a seat at the bar. Instead of a clear path Autumn hit a brick wall and stumbled backward against the rails. Her heels rolled and she braced for a humiliating fall. The crash never came. In a blink she was pulled forward and pressed against the brick wall again. But this time she felt a hand against her spine and the tingle started to spread through her body. 
+ His dark wavy hair fell in front of his eyes like a curtain. But beyond that wavy veil were the most seductive pair of blue eyes starring at her.  His eye seemed to glow in the club lights. At second glance that wasnt seduction in those blue eyes it was anger.
+Im so sorry. Im not feeling… Nevermind I’ll just get out of your way. 
+The hand on Autumn spine pressed her even more firmly against the stranger before letting go.
+Please. Im the one who should watch where theyre going. I apologize for my clumsiness. Let me buy you a drink. Im River.
+Im Autumn but Im just drinking water and I need to head back to my friend, Autumn said gesturing toward the dance floor below. 
+The young lady with the purple hair? I saw you dancing with her. Why don’t I buy a drink for both of you and I’ll walk you back to your friend to we can have a little time to talk.
+Ok. That is very nice of you.</Synopsis>
+        </Document>
+        <Document ID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC">
+            <Title>Novel Format</Title>
+            <Text>NOVEL FORMAT
+About This Template
+By default, when compiled (File &gt; Compile…), this project will generate a document in the standard manuscript format for novels. Settings are also provided to make it easy to compile to a paperback-style PDF for self-publishing or an ePub or Kindle ebook.
+How To Use This Template
+Inside the “Manuscript” folder, create a new folder for each chapter and title each folder with the name of the chapter. If you don’t intend to use chapter names, just use something descriptive that tells you what the chapter is about. (You do not need to—and indeed shouldn’t—title the folders “Chapter One” and so on, because chapter numbering will be taken care of automatically during the Compile process.) The first chapter folder has been created for you with the placeholder title “Chapter”.
+⁠Note: The “Manuscript” folder is what we refer to in the documentation as the “Draft folder”. It’s just been renamed “Manuscript” in this template.
+Create a new text document for each scene inside the chapter folders. (Upon export, scenes will be separated with the “#” character for standard manuscript format and with a blank line for other formats.)
+Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder.
+You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do—you may wish to customise the sketch sheets or get rid of them entirely).
+To create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.
+Alternatively, you can just click “Add”, or hit Ctrl+N, with the Characters or Places folders selected.
+You can view character and setting sketches in the Inspector as follows:
+Select the “Bookmarks” pane in the Inspector.
+If necessary, click on “Document Bookmarks” at the top and switch to “Project Bookmarks”.
+Click on the dropdown arrow next to the “Characters” or “Places” folders in the Bookmarks list and choose the sheet you wish to view.
+A “Notes” folder has been provided for project-level notes. This has been set as the default Bookmarks folder in Project &gt; Project Settings…, so that when you create a new document from the Bookmarks sidebar in a Quick Reference panel, the document will be added to this folder.
+Compiling
+Title pages and front matter are all provided in the “Front Matter” folder (between the “Places” and “Notes” folders). Different front matter is used for different formats.
+
+Tip: You can open this document in a Quick Reference window and have it open alongside the compile dialog if you need to refer to these instructions while compiling.
+To compile to standard manuscript format
+Edit the “Title Page” document inside the Front Matter/Manuscript Format folder to ensure that it contains the correct information (by default it will use the Author Information supplied in File &gt; Options…).
+Go to File &gt; Compile…
+Next to “Compile for”, select “Print”, “PDF” or one of the rich text file formats such as RTF, Word or OpenOffice.
+Select either “Manuscript (Courier)” or “Manuscript (Times)” from the list of formats on the left (note that this list changes depending on the file format you have chosen).
+Ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Manuscript Format” folder is selected in the pop-up button next to it. (This has already been set up for you.)
+Click on “Compile”.
+To compile to paperback PDF format
+Edit the front matter pages contained inside the Front Matter/Paperback folder.
+Go to File &gt; Compile…
+Next to “Compile for”, select “PDF”.
+Select “Paperback (5.06&quot; x 7.81&quot;)” from the list of formats on the left.
+Ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Paperback” folder is selected in the pop-up button next to it. (This has already been set up for you.)
+Click on “Compile”.
+To compile to ebook format
+Edit or remove the dedication page contained inside the Front Matter/Ebook folder. Feel free to add any other front matter documents as required.
+Import a cover image.
+You can store this anywhere, but it makes sense to place it in the “Ebook” front matter folder. A placeholder cover image is already provided—you will want to delete that once you have imported your own.
+Be sure to check online for recommended image sizes and file format, because the recommendations are constantly changing. The sample cover image provided is 2,500 x 1,563 pixels.
+Go to File &gt; Compile…
+From the “Compile for” menu, select one of the ebook formats.
+To create an ePub file, choose either of the “ePub Ebook” formats.
+To create a Kindle file, choose the “Kindle Ebook” format.
+Select “Ebook” from the list of formats on the left.
+If you have front matter documents other than the cover image, ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Ebook” folder is selected in the pop-up button next to it. If you don’t have any front matter documents, you can un-tick “Add front matter”. (Un-ticking this does not affect the cover image.)
+Above the contents list in the rightmost header bar are six buttons. Click on each of them in turn to go through the various available settings, changing what you need. In particular:
+Fill in the metadata such as author name and book title.
+Ensure your cover image is selected and shown.
+Click on “Compile”.
+Making Changes
+There are various minor changes you can make to tweak this template so that it better suits your needs, as follows:
+Project and author name: The default book title and author name used in headers and elsewhere can be edited in the metadata pane of Compile (click the tag icon in the rightmost header bar of the Compile panel).
+Chapter subtitles: By default, Compile for this template is set up so that chapter numbers are added but not chapter titles. If you want to include the title of the chapter folder in Compile:
+Click on “Assign Section Layouts” at the bottom of the Compile panel.
+Select “Chapter Heading” in the list on the left.
+Select a different layout on the right, such as “Chapter Title”. (These layouts determine how each part of your manuscript looks in the compiled text.)
+Font: You can override the font used throughout a compiled document. At the top of the “Section Layouts” pane in the centre of the Compile panel, change the “Font” setting.Note that fonts are not included in ebooks, however—e-readers choose their own fonts (and you would need to pay a hefty fee for a licence to embed a font in an ebook). The “Font” setting is therefore not available for ebook formats.
+Page size: The “Paperback” formats are set to create a PDF with a page size of 5.06&quot; x 7.81&quot; or 6&quot; x 9&quot;, which are two of the formats you can use with Amazon’s CreateSpace and are popular sizes for trade paperbacks. You can create your own paperback format using a different page size as follows:
+Right-click on the “Paperback (5.06&quot; x 7.81&quot;)” format in Compile’s “Formats” list.
+Select “Duplicate &amp; Edit Format…”. The compile format designer window will open.
+In the “Format Name” text field at the top, change the name to something meaningful (e.g. “Paperback (5.5&quot; x 8.5&quot;)”) and select “My Formats” as the “Save To” location.
+Select “Page Settings” in the sidebar.
+Click on the “Page Setup…” button.
+In the “Page Setup” panel that appears, ensure “Custom” is selected in the “Paper Size” menu and click the “…” button.
+Enter a new paper width and height. (Do not worry about setting the margins here; if you want to change these for the compile format, do so after the next step by clicking the “Margins” button just below “Page Setup…”.)
+Click “OK” and then click “OK” again.
+Click “Save” in the Compile panel. This will return you to the main Compile preview. You now have a variation of the paperback format using a different page size that you can use at any time with any project.
+Making your own special folders: The “Characters” and “Places” folders are just regular folders that have been set up in a particular way; you can create other folders that work in a similar manner.
+To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents &gt; Change Icon to choose a different icon.
+To create your own template sheets, create a new document inside the “Template Sheets” folder and set it up however you want (e.g. add text, change the title or icon, set default metadata and so on). Now this document will be available as the basis for creating new documents from the New From Template menu.
+To make it so that adding a new document to the folder created in (1) always results in a document based on the template set up in (2), select the folder and go to Documents &gt; Default Template for Subdocuments, then choose the template document you created.
+Working with chapters instead of scenes: By default, this project is set up so that you write each scene as a separate text document. If you don’t like to break things up quite that much and would prefer to write an entire chapter in each text document, make the following changes:
+Rename the “Scene” document to use your chapter title and move it so that it is on the same level as the “Chapter” folder rather than being inside it.
+Create a new text document for each chapter.
+Go to Project &gt; Project Settings… and select “Section Types”.
+Select the “Default Types by Structure” tab.
+Delete “Level 1 files” and “Level 2 files and deeper”.
+In the “Section Type” column, change the setting for “All files” to “Chapter”, then hit “OK”. This tells Scrivener that all your files contain chapter text, not scenes. Compile has already been set up to apply the right formatting to the section types defined here.
+Using a custom table of contents in ebooks: When exporting to ebook format, Scrivener automatically generates a table of contents. If you would like to customise what appears in the contents, follow these instructions:
+Create a document for your table of contents inside the Front Matter/Ebook folder.
+Name the document “Contents”.
+With the “Contents” document open in the editor, select Navigate &gt; Editor &gt; Lock in Place. The editor header will turn pink to indicate the lock, and you will be able to work in the binder without affecting the editor.
+In the binder, select the documents you would like to appear in the table of contents (hold down Ctrl to select more than one document).
+For a simple flat list, drag the selected documents into the editor and drop them in the empty “Contents” document. Alternatively, if you would like the table of contents indented to match the binder structure, select Edit &gt; Copy Special &gt; Copy Documents as Structured Link List and then click into the text of the “Contents” document and hit Ctrl+V or use Edit &gt; Paste. The documents you wish to appear in the table of contents will now appear as a list of links.
+If you wish to centre the table of contents, select the text and centre it.
+In the Inspector, change the “Section Type” of the “Contents” document to “Table of Contents”.
+Remove the editor lock by toggling Navigate &gt; Editor &gt; Lock in Place or deselecting the option from the menu that appears when right-clicking the document icon in the editor header.Now, when you compile, your custom “Contents” document will be used instead of the automatically-generated one. The titles in the links of the “Contents” document will automatically be updated to match those of the final compiled ebook.
+Sample Documents
+The “Sample Output” folder inside the Research folder contains examples of documents that have been created by compiling from this template. “Standard Manuscript” shows the results when compiling to “Manuscript (Courier)”, and “Paperback Novel” shows the results when compiling to “Paperback (5.06&quot; x 7.81&quot;)” format with chapter subtitles included, as described in Making Changes, above.
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template to suit how you work.
+
+Like all templates in Scrivener, this project was originally created from the “Blank” template. We’ve simply added a few folders and set everything up in ways that should be useful to novel writers. Everything you can do with this project, you could equally do by creating a “Blank” project and setting it up yourself.
+
+You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template…</Text>
+        </Document>
+        <Document ID="FD4B78C9-DEBC-4CAF-91C6-970A36B5332F">
+            <Title>Paperback</Title>
+        </Document>
+        <Document ID="FD75AC3C-F304-4EA6-ADCC-2C32D6589969">
+            <Title>Chapter</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
